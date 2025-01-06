@@ -12,6 +12,8 @@
 本文档介绍了如何使用 `transformers` 库和相关工具实现情感分析任务。脚本基于预训练的 BERT 模型（`bert-base-chinese`），对文本进行分类，标签为正面（positive）、负面（negative）和中性（neutral）。
 
 ---
+- `cn_sentiment.py` 是训练文件
+- `tag.py` 是测试文件
 
 ## 1. **环境依赖**
 
