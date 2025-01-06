@@ -1,4 +1,4 @@
-# 基于 BERT 的情感分类任务
+# 基于 BERT 的中文情感分类任务
 
 <p align="center">
   <a href="https://github.com/google-research/bert">
