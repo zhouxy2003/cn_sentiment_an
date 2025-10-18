@@ -156,5 +156,12 @@ trainer.train()
 - 根据任务需求调整训练参数（如轮次、批量大小）。
 - 输出的模型可用于后续推理任务。
 
---- 
+---
 
+
+
+## 感谢所有人的支持，让我们一起为开源世界添砖加瓦
+
+## Thank you to everyone for your support. Let's work together to contribute to the open-source world.
+
+<img src="star-history-20251018.png" style="zoom: 33%;" />
