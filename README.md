@@ -164,4 +164,4 @@ trainer.train()
 
 ## Thank you to everyone for your support. Let's work together to contribute to the open-source world.
 
-<img src="star-history.png" style="zoom: 50%;" />
+<img src="star-history.png" style="zoom: 100%;" />
